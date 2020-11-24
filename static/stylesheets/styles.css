@@ -1,0 +1,122 @@
+body {
+	height: 100vh;
+	width: 100vw;
+	font-family: "Raleway", sans-serif;
+}
+
+.overlay {
+	background-color: rgba(0, 0, 0, 0.8);
+	height: 100%;
+}
+
+#body-row {
+	height: 100%;
+}
+
+#selfie {
+	height: 300px;
+	border-radius: 50%;
+}
+
+.container-fluid {
+	height: 100%;
+}
+
+.project-name {
+	width: 20%;
+}
+
+#projects-background {
+	background-image: url("../images/code_background.jpg");
+	backdrop-filter: grayscale(0.25);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+}
+
+#contact-background {
+	background-image: url("../images/contact_background.jpg");
+	backdrop-filter: grayscale(0.25);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+}
+
+#about-background {
+	background-image: url("../images/asheville.jpg");
+	backdrop-filter: grayscale(0.25);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+}
+
+#home-background {
+	background-image: url("../images/desk_background.jpg");
+	backdrop-filter: grayscale(0.25);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+}
+
+hr {
+	border: 1px solid white;
+}
+
+#name {
+	text-align: center;
+	letter-spacing: 2px;
+}
+
+#title {
+	text-align: center;
+	font-size: 38px;
+	letter-spacing: 7px;
+}
+
+.container {
+	height: 94%;
+}
+
+#main-row {
+	height: 100%;
+}
+
+h1 {
+	color: white;
+}
+
+.section-title {
+	color: black;
+	text-align: center;
+}
+
+#logo {
+	height: 200px;
+}
+
+.nav-link {
+	transition-duration: 0.3s;
+	width: fit-content;
+}
+
+.active .nav-link:hover {
+	transform: none;
+}
+
+.nav-link:hover {
+	transition-duration: 0.3s;
+	transform: scale(1.1);
+}
+
+.navbar-toggler {
+	transition-duration: 0.3s;
+}
+
+.navbar-toggler:hover {
+	transition-duration: 0.3s;
+	transform: scale(1.1);
+}
+
+.navbar-toggler:focus {
+	outline: 0;
+}
