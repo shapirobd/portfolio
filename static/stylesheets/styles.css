@@ -27,7 +27,8 @@ body {
 }
 
 #projects-background {
-	background-image: url("../images/code_background.jpg");
+	/* background-image: url("../images/code_background.jpg"); */
+	background-image: url("../images/aqua_bars.jpg");
 	backdrop-filter: grayscale(0.25);
 	background-size: cover;
 	background-repeat: no-repeat;
