@@ -51,7 +51,8 @@ body {
 }
 
 #home-background {
-	background-image: url("../images/desk_background.jpg");
+	/* background-image: url("../images/desk_background.jpg"); */
+	background-image: url("../images/green_lines.jpg");
 	backdrop-filter: grayscale(0.25);
 	background-size: cover;
 	background-repeat: no-repeat;
