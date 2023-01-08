@@ -139,3 +139,7 @@ h1 {
 #projects-jumbotron {
 	background-color: rgba(56, 61, 60, 0.8);
 }
+
+#contact-jumbotron {
+	height: 73%;
+}
