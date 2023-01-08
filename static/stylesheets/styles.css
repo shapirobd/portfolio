@@ -27,7 +27,8 @@ body {
 }
 
 #projects-background {
-	background-image: url("../images/code_background.jpg");
+	/* background-image: url("../images/code_background.jpg"); */
+	background-image: url("../images/code.jpg");
 	backdrop-filter: grayscale(0.25);
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -51,7 +52,8 @@ body {
 }
 
 #home-background {
-	background-image: url("../images/desk_background.jpg");
+	/* background-image: url("../images/desk_background.jpg"); */
+	background-image: url("../images/blue_lines.jpg");
 	backdrop-filter: grayscale(0.25);
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -69,7 +71,7 @@ hr {
 
 #title {
 	text-align: center;
-	font-size: 38px;
+	font-size: 34px;
 	letter-spacing: 7px;
 }
 
